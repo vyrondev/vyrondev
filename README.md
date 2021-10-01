@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vyrondev
-- 👀 I’m interested in evrything anlaog and digital.
-- 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on software & blockchain.
-- 📫 How to reach me by pm on Twitter.
+- 👀 I’m interested in everything anlaog and digital.
+- 🌱 I’m currently learning HTML, CSS, JavaScript on freecodecamp.com
+- 💞️ I’m looking to collaborate on Web 3.0 software & blockchain.
+- 📫 How to reach me...by pm on Twitter.
 
 <!---
 vyrondev/vyrondev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
