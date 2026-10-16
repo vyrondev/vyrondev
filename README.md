@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vyrondev
-- 👀 I’m interested in everything anlaog and digital.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, MongoDB, Express, React, Node.js, Solidity, Clarity. 
-- 💞️ I’m looking to collaborate on web3 dApps & blockchain.
+- 👀 Interested in everything anlaog and digital.
+- 🌱 Like to use HTML, CSS, JavaScript, MongoDB, Express, React, Node.js, Solidity, Clarity. 
+- 💞️ Looking to collaborate on web3 dApps & blockchain.
+- 💯 My WHY - I just want to help the webspace become a better place & take care of family.
 - 📫 How to reach me...
 
 <!---
